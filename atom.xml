@@ -4,9 +4,9 @@
   <subtitle>智远，致远</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://zyvalue.github.io/"/>
+  <link href="http://zyvalue.com/"/>
   <updated>2016-04-20T14:27:07.337Z</updated>
-  <id>http://zyvalue.github.io/</id>
+  <id>http://zyvalue.com/</id>
   
   <author>
     <name>ZY Zhou</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>人生最重要的8件事</title>
-    <link href="http://zyvalue.github.io/2016/04/20/most-important-in-life/"/>
-    <id>http://zyvalue.github.io/2016/04/20/most-important-in-life/</id>
+    <link href="http://zyvalue.com/2016/04/20/most-important-in-life/"/>
+    <id>http://zyvalue.com/2016/04/20/most-important-in-life/</id>
     <published>2016-04-20T13:49:49.000Z</published>
     <updated>2016-04-20T14:27:07.337Z</updated>
     
@@ -46,15 +46,15 @@
     
     </summary>
     
-      <category term="领悟" scheme="http://zyvalue.github.io/categories/%E9%A2%86%E6%82%9F/"/>
+      <category term="领悟" scheme="http://zyvalue.com/categories/%E9%A2%86%E6%82%9F/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://zyvalue.github.io/2016/04/16/hello-world/"/>
-    <id>http://zyvalue.github.io/2016/04/16/hello-world/</id>
+    <link href="http://zyvalue.com/2016/04/16/hello-world/"/>
+    <id>http://zyvalue.com/2016/04/16/hello-world/</id>
     <published>2016-04-16T07:52:39.674Z</published>
     <updated>2016-04-16T07:52:39.676Z</updated>
     
